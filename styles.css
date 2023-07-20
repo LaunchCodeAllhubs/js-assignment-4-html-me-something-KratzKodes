@@ -1,7 +1,8 @@
 /* Write your CSS here! */
-.body {
+body {
     margin: 8px;
     display: block;
+    background-color: gainsboro;
 }
 
 #mainHeading{
@@ -10,4 +11,8 @@
 
 #testP {
     color: green;
+}
+
+p {
+    word-wrap: normal;
 }
